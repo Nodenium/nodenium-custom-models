@@ -25,7 +25,7 @@
                 "threshold": 101,
                 "model": {
                     "type": "model",
-                    "model": "nodenium:album_covers/DailyLoop_AC"
+                    "model": "nodenium:album_covers/JoeHisaishi_AC"
                 }
             },
             {

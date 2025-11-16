@@ -2,8 +2,8 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "nodenium:item/album_covers/DailyLoop_tex",
-		"particle": "daily-loop"
+		"1": "nodenium:item/album_covers/JoeHisaishi_tex",
+		"particle": "s-l500"
 	},
 	"elements": [
 		{
