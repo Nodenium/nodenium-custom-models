@@ -2,8 +2,7 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "nodenium:item/album_covers/FailumeHeights_tex",
-		"particle": "Cover"
+		"1": "nodenium:item/album_covers/weekly_poster"
 	},
 	"elements": [
 		{

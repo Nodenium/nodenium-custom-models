@@ -2,8 +2,12 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "nodenium:item/album_covers/FrierenI_tex",
-		"particle": "Frieren_LP_Cover_RGB72_4000px1"
+<<<<<<<< HEAD:pack/assets/nodenium/models/album_covers/JoeHisaishi_AC.json
+		"1": "nodenium:item/album_covers/JoeHisaishi_tex",
+		"particle": "s-l500"
+========
+		"1": "nodenium:item/album_covers/failume_heights"
+>>>>>>>> 2278c99f6af829b75104e3245bb8c4cb7e68899a:pack/assets/nodenium/models/album_covers/failume_heights.json
 	},
 	"elements": [
 		{

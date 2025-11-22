@@ -1,0 +1,16 @@
+
+{
+    "model": {
+    "type": "composite",
+    "models": [
+        {
+            "type": "model",
+            "model": "deked_out:overlay/epic"
+        },
+        {
+            "type": "model",
+            "model": "deked_out:artifact/petri_dish"
+        }
+        ]
+    }
+}

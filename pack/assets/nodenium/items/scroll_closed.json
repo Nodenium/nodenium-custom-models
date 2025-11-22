@@ -1,0 +1,16 @@
+{
+    "model": {
+        "type": "model",
+        "model": "nodenium:scroll_closed",
+        "tints": [
+            {
+                "type": "minecraft:constant",
+                "value": [
+                    0.498,
+                    0.376,
+                    0.31
+                ]
+            }
+        ]
+    }
+}

@@ -113,6 +113,9 @@
 		},
 		"fixed": {
 			"rotation": [0, 90, 0]
+		},
+		"on_shelf": {
+			"rotation": [0, -90, 0]
 		}
 	}
 }

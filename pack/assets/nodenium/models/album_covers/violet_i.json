@@ -2,8 +2,7 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "nodenium:item/album_covers/VioletI_tex",
-		"particle": "Music/Weekly Albums/Violet Evergarden I/OTItMTczOS5qcGVn"
+		"1": "nodenium:item/album_covers/violet_i"
 	},
 	"elements": [
 		{

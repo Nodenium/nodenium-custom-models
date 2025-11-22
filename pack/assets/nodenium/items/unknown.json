@@ -1,0 +1,25 @@
+{
+    "model": {
+        "type": "composite",
+        "models": [
+            {
+                "type": "model",
+                "model": "nodenium:racecar_gtp"
+            },
+            {
+                "type": "model",
+                "model": "nodenium:racecar_gtp_overlay",
+                "tints": [
+                    {
+                        "type": "minecraft:dye",
+                        "default": [
+                            1,
+                            1,
+                            1
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
