@@ -57,11 +57,8 @@
 		"gui": {
 			"rotation": [30, -135, 0]
 		},
-		"fixed": {
-			"rotation": [0, 90, 0]
-		},
 		"on_shelf": {
-			"rotation": [0, -90, 0]
+			"rotation": [0, -180, 0]
 		}
 	}
 }
