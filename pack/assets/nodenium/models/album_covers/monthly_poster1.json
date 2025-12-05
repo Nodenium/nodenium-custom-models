@@ -2,12 +2,7 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-<<<<<<<< HEAD:pack/assets/nodenium/models/album_covers/JoeHisaishi_AC.json
-		"1": "nodenium:item/album_covers/JoeHisaishi_tex",
-		"particle": "s-l500"
-========
-		"1": "nodenium:item/album_covers/failume_heights"
->>>>>>>> 2278c99f6af829b75104e3245bb8c4cb7e68899a:pack/assets/nodenium/models/album_covers/failume_heights.json
+		"1": "nodenium:item/album_covers/monthly_poster1"
 	},
 	"elements": [
 		{
