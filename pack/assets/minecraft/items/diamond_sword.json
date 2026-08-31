@@ -11,14 +11,7 @@
                 "threshold": 1,
                 "model": {
                     "type": "model",
-                    "model": "nodenium:baguette_sword"
-                }
-            },
-            {
-                "threshold": 2,
-                "model": {
-                    "type": "model",
-                    "model": "nodenium:chainsaw_blade"
+                    "model": "georgejonnie:george_broom"
                 }
             }
         ]

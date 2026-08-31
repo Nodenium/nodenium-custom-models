@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "georgejonnie:item/hats/curp_witch_hat",
-		"particle": "georgejonnie:item/hats/curp_witch_hat"
+		"0": "curplunktis:item/hats/curp_witch_hat",
+		"particle": "curplunktis:item/hats/curp_witch_hat"
 	},
 	"elements": [
 		{
@@ -320,6 +320,39 @@
 			}
 		}
 	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 2.5, 0]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 2.5, 0]
+		},
+		"firstperson_righthand": {
+			"translation": [0, 6, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [0, 6, 0]
+		},
+		"ground": {
+			"translation": [0, 6, 0]
+		},
+		"gui": {
+			"rotation": [-145.24, 18.95, -172.67],
+			"translation": [0.5, 3.75, 0]
+		},
+		"head": {
+			"rotation": [13.5, 0, 0],
+			"translation": [0, 17.5, 4],
+			"scale": [1.61, 1.61, 1.61]
+		},
+		"fixed": {
+			"translation": [0, 2.25, 0]
+		},
+		"on_shelf": {
+			"rotation": [-180, 0, -180]
+		}
+	},
 	"groups": [
 		{
 			"name": "Main Hat",
