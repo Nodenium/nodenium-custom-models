@@ -5,7 +5,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/iron_spear"
+          "model": "minecraft:item/diamond_spear"
         },
         "when": [
           "gui",
@@ -17,14 +17,14 @@
     ],
     "fallback": {
       "type": "minecraft:model",
-      "model": "minecraft:item/iron_spear_in_hand"
+      "model": "minecraft:item/diamond_spear_in_hand"
     },
     "entries": [
       {
         "threshold": 1,
         "model": {
           "type": "model",
-          "model": "tomyto:items/pitchfork"
+          "model": "tomyto:pitchfork"
         }
       }
     ],
