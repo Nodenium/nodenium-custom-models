@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "block/pitchfork",
-		"particle": "block/pitchfork"
+		"0": "tomyto:item/pitchfork",
+		"particle": "tomyto:item/pitchfork"
 	},
 	"elements": [
 		{
@@ -156,9 +156,19 @@
 			"translation": [0.5, 0, 1.75],
 			"scale": [0.78, 0.78, 0.78]
 		},
+		"thirdperson_lefthand": {
+			"translation": [0.5, 0, 1.75],
+			"scale": [0.78, 0.78, 0.78]
+		},
 		"firstperson_righthand": {
-			"rotation": [0, -24, 0],
-			"scale": [0.79, 0.79, 0.79]
+			"rotation": [-12, -30, 0],
+			"translation": [4, 0, 0],
+			"scale": [0.54, 0.54, 0.54]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-12, -30, 0],
+			"translation": [4, 0, 0],
+			"scale": [0.54, 0.54, 0.54]
 		}
 	}
 }
