@@ -1,6 +1,7 @@
+
 {
   "model": {
     "type": "model",
-    "model": "tomyto_:hats/witch_hunter_hat"
+    "model": "tomyto:hats/witch_hunter_hat"
   }
 }
