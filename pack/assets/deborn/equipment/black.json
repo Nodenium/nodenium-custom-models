@@ -1,0 +1,19 @@
+{
+  "layers": {
+    "horse_body": [
+      {
+        "texture": "deborn:black"
+      }
+    ],
+    "humanoid": [
+      {
+        "texture": "deborn:black"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "deborn:black"
+      }
+    ]
+  }
+}
