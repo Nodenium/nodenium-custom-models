@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "georgejonnie:item/camber_witch_hat",
-		"particle": "georgejonnie:item/camber_witch_hat"
+		"0": "georgejonnie:item/hats/camber_witch_hat",
+		"particle": "georgejonnie:item/hats/camber_witch_hat"
 	},
 	"elements": [
 		{

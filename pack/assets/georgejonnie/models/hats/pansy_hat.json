@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "georgejonnie:item/pansy_hat",
-		"particle": "georgejonnie:item/pansy_hat"
+		"0": "georgejonnie:item/hats/pansy_hat",
+		"particle": "georgejonnie:item/hats/pansy_hat"
 	},
 	"elements": [
 		{

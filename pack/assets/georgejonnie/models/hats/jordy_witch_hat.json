@@ -4,8 +4,8 @@
 	"parent": "jordy_witch_hat",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "georgejonnie:item/jordy_witch_hat",
-		"particle": "georgejonnie:item/jordy_witch_hat"
+		"0": "georgejonnie:item/hats/jordy_witch_hat",
+		"particle": "georgejonnie:item/hats/jordy_witch_hat"
 	},
 	"elements": [
 		{

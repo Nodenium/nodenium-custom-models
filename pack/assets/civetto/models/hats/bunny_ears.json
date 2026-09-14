@@ -4,7 +4,7 @@
 	"parent": "bunny_ears",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "civetto:item/bunny_ears"
+		"1": "civetto:item/hats/bunny_ears"
 	},
 	"elements": [
 		{
