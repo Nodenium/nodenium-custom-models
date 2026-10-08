@@ -2,8 +2,8 @@
 	"format_version": "26.3",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"2": "dek_craft2:hats/antenna",
-		"particle": "dek_craft2:hats/antenna"
+		"2": "dek_craft2:item/hats/antenna",
+		"particle": "dek_craft2:item/hats/antenna"
 	},
 	"elements": [
 		{
