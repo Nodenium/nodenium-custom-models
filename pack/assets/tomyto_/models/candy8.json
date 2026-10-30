@@ -1,0 +1,74 @@
+{
+	"format_version": "26.3",
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "tomyto_:item/candy8",
+		"particle": "tomyto_:item/candy8"
+	},
+	"elements": [
+		{
+			"from": [8, 0, 8],
+			"to": [9, 13, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [3.5, 0, 4, 6.5], "texture": "#0"},
+				"east": {"uv": [4, 0, 4.5, 6.5], "texture": "#0"},
+				"south": {"uv": [4.5, 0, 5, 6.5], "texture": "#0"},
+				"west": {"uv": [5, 0, 5.5, 6.5], "texture": "#0"},
+				"up": {"uv": [6, 3, 6.5, 3.5], "texture": "#0"},
+				"down": {"uv": [6, 3.5, 6.5, 4], "texture": "#0"}
+			}
+		},
+		{
+			"from": [5, 12, 8.5],
+			"to": [12, 13, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 11, 7.5]},
+			"faces": {
+				"north": {"uv": [5.5, 0, 9, 0.5], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 0.5], "texture": "#0"},
+				"south": {"uv": [5.5, 0.5, 9, 1], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 0.5], "texture": "#0"},
+				"up": {"uv": [0, 0, 3.5, 0], "texture": "#0"},
+				"down": {"uv": [0, 0, 3.5, 0], "texture": "#0"}
+			}
+		},
+		{
+			"from": [5, 20, 8.5],
+			"to": [12, 21, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 20, 7.5]},
+			"faces": {
+				"north": {"uv": [6, 2, 9.5, 2.5], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 0.5], "texture": "#0"},
+				"south": {"uv": [6, 2.5, 9.5, 3], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 0.5], "texture": "#0"},
+				"up": {"uv": [0, 0, 3.5, 0], "texture": "#0"},
+				"down": {"uv": [0, 0, 3.5, 0], "texture": "#0"}
+			}
+		},
+		{
+			"from": [5, 13, 8],
+			"to": [12, 20, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 13, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 3.5, 3.5], "texture": "#0"},
+				"east": {"uv": [5.5, 1, 6, 4.5], "texture": "#0"},
+				"south": {"uv": [0, 3.5, 3.5, 7], "texture": "#0"},
+				"west": {"uv": [5.5, 4.5, 6, 8], "texture": "#0"},
+				"up": {"uv": [6, 1, 9.5, 1.5], "texture": "#0"},
+				"down": {"uv": [6, 1.5, 9.5, 2], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"firstperson_righthand": {
+			"scale": [0.66, 0.66, 0.66]
+		},
+		"firstperson_lefthand": {
+			"scale": [0.66, 0.66, 0.66]
+		},
+		"fixed": {
+			"translation": [0, 0, -1]
+		}
+	}
+}
