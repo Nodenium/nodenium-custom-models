@@ -1,6 +1,12 @@
 {
     "model": {
         "type": "model",
-        "model": "skyenova_:purple_saber"
+        "model": "skyenova_:purple_saber",
+        "tints": [
+            {
+                "type": "constant",
+                "value": 3342335
+            }
+        ]
     }
 }
