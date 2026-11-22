@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "block/winter_crown",
-		"particle": "block/winter_crown"
+		"0": "civetto:item/hats/winter_crown",
+		"particle": "civetto:item/hats/winter_crown"
 	},
 	"elements": [
 		{
